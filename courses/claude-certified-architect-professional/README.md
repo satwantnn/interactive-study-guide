@@ -26,4 +26,4 @@ A useful study routine: read the simplified explanation, work through the scenar
 
 These are independently prepared study companions, not official certification training or exam questions. They reference a third-party course; the original course and any copyrighted material belong to their respective owners. Keep adaptations private unless redistribution is permitted.
 
-[Back to all courses](../../README.md)
+[Back to all courses](../README.md)

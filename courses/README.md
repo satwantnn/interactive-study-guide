@@ -8,7 +8,7 @@ I created these guides as learning companions while studying for technical certi
 
 | Course | Focus | Materials |
 | --- | --- | --- |
-| **Claude Certified Architect – Professional (CCAR-P)** | AI solution architecture, prompting, integrations, evaluation, safety, and operations | [Browse all 7 chapters](courses/claude-certified-architect-professional/README.md) |
+| **Claude Certified Architect – Professional (CCAR-P)** | AI solution architecture, prompting, integrations, evaluation, safety, and operations | [Browse all 7 chapters](claude-certified-architect-professional/README.md) |
 
 More certification and architecture courses may be added under `courses/` over time.
 
